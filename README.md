@@ -63,7 +63,3 @@ A user can go into and interact with a chat-room by going to the chat-room endpo
 
 Once in the chat-room view, a websocket is created for real-time connection with the server and hence the other connected user.    
   Websocket url - `ws/chat/<chat-room-id>/`
-
-
-## Maintainer:
-- Brian Obot <brianobot9@gmail.com>
